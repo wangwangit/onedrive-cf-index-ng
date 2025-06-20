@@ -11,7 +11,7 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: 'https://www.wangwangit.com/img/favicon.webp',
+  icon: 'favicon.ico',
 
   // The name of your website. Present alongside your icon.
   title: "一只会飞的旺旺",
@@ -42,7 +42,7 @@ module.exports = {
   protectedRoutes: ['/Private', '/Demo/😎Another Private Folder Password 123'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:me@lyc8503.net',
+  email: '001@wangwangit.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
